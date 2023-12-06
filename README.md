@@ -1,5 +1,13 @@
 # OTP_STEGANO_CIPHER
 
+## Profil
+| #               | Biodata                      |
+| --------------- | ---------------------------- |
+| **Nama**        | Muhammad Farhan              |
+| **NIM**         | 312110128                    |
+| **Kelas**       | TI.21.A1                     |
+| **Mata Kuliah** | Kriptografi                  |
+
 ## Penjelasan Singkat
 
 Pada repository ini saya menggabungkan dua jenis cipher yaitu OTP(One Time Pad) dengan LSB menggunakan Library python Stegano
@@ -10,7 +18,11 @@ Selanjutnya, teks yang di enkripsi dimasukkan kedalam gambar dengan Library Pyth
 
 ## Result
 
+### Enekripsi
+
 ![WhatsApp Image 2023-12-06 at 21 23 02 (1)](https://github.com/farhanz17/OTP_STEGANO_CIPHER/assets/92637117/dc37cbd2-f43e-4b51-84b6-4b848d006a00)
+
+### Dekripsi
 
 ![WhatsApp Image 2023-12-06 at 21 23 02](https://github.com/farhanz17/OTP_STEGANO_CIPHER/assets/92637117/969d1454-6846-4667-b7ad-12464ccb24d9)
 
