@@ -10,7 +10,7 @@
 
 ## Penjelasan Singkat
 
-Pada repository ini saya menggabungkan dua jenis cipher yaitu OTP(One Time Pad) dengan LSB menggunakan Library python Stegano
+Pada repository ini saya menggabungkan dua jenis cipher yaitu OTP(One Time Pad) dengan LSB menggunakan Library python Stegano.
 
 Prosesnya yaitu melakukan input plaintext dan key, kemudian dienkripsi menggunakan metode OTP.
 
