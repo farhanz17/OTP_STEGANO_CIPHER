@@ -18,6 +18,8 @@ Selanjutnya, teks yang di enkripsi dimasukkan kedalam gambar dengan Library Pyth
 
 ## Result
 
+<img width="339" alt="Screenshot 2023-12-07 104918" src="https://github.com/farhanz17/OTP_STEGANO_CIPHER/assets/92637117/ef0ebb77-ff49-4ac7-a437-f39d2f3efdbb">
+
 ### Enekripsi
 
 ![WhatsApp Image 2023-12-06 at 21 23 02 (1)](https://github.com/farhanz17/OTP_STEGANO_CIPHER/assets/92637117/dc37cbd2-f43e-4b51-84b6-4b848d006a00)
